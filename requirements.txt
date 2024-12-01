@@ -1,0 +1,7 @@
+streamlit==1.25.0
+chromadb==0.3.26
+torch==2.0.1
+sentence-transformers==2.2.2
+openai==0.27.10
+tqdm==4.66.1
+pyngrok==5.2.1
